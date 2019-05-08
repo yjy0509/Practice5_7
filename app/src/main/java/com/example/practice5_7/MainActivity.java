@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      *
-     * Android 无敌112
+     * Android 无敌
      * @param savedInstanceState
      */
     @Override
