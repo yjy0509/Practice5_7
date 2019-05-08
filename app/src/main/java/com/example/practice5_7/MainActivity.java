@@ -17,6 +17,11 @@ public class MainActivity extends AppCompatActivity {
     @Inject
     People people;
 
+    /**
+     *
+     * Android 无敌
+     * @param savedInstanceState
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
